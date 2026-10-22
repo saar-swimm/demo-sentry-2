@@ -127,7 +127,7 @@
     "react-select": "^3.0.8",
     "react-select-event": "5.3.0",
     "react-sparklines": "1.7.0",
-    "react-virtualized": "^9.22.3",
+    "react-virtualized": "^10.0.0",
     "reflux": "0.4.1",
     "regenerator-runtime": "^0.13.3",
     "rrweb": "^1.1.3",
